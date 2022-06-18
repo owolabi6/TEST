@@ -1,0 +1,16 @@
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\bin\Debug\net5.0\TestApp.exe
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\bin\Debug\net5.0\TestApp.deps.json
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\bin\Debug\net5.0\TestApp.runtimeconfig.json
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\bin\Debug\net5.0\TestApp.runtimeconfig.dev.json
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\bin\Debug\net5.0\TestApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\bin\Debug\net5.0\ref\TestApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\bin\Debug\net5.0\TestApp.pdb
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\obj\Debug\net5.0\TestApp.csproj.AssemblyReference.cache
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\obj\Debug\net5.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\obj\Debug\net5.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\obj\Debug\net5.0\TestApp.AssemblyInfo.cs
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\obj\Debug\net5.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\obj\Debug\net5.0\TestApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\obj\Debug\net5.0\ref\TestApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\obj\Debug\net5.0\TestApp.pdb
+C:\Users\ADVOCATE ROTIMI\Desktop\TestApp\obj\Debug\net5.0\TestApp.genruntimeconfig.cache
